@@ -311,3 +311,17 @@ footer {
     margin: 0;
     color: #333;
 }
+
+/* MI EXPERIENCIA */
+
+.espacio-experiencia {
+    text-align: center;
+    margin-top: -100px;
+    margin-bottom: -90px;
+}
+
+.foto-experiencia {
+    height: 500px;
+    transform: rotate(-90deg);
+    transform-origin: center center;
+}
